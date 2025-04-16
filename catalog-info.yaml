@@ -12,7 +12,7 @@ metadata:
     sonarqube.org/project-key: default/TestNestJSRepo2
     
 
-    dependencytrack/project-id: ""
+    dependencytrack/project-id: "5414c75a-891f-40d4-a893-1117b7f0d51f"
     cloud-service/app-info: ""
     backstage.io/techdocs-ref: dir:.
 
