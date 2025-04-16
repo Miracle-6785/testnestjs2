@@ -1,0 +1,22 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "TestNestJSRepo2"
+  description: "A component that is part of the DevSecOps catalog"
+  annotations:
+    
+    jenkins.io/job-full-name: TestNestJSRepo2-org/TestNestJSRepo2-job
+    
+
+    
+    sonarqube.org/project-key: default/TestNestJSRepo2
+    
+
+    dependencytrack/project-id: ""
+    cloud-service/app-info: ""
+    backstage.io/techdocs-ref: dir:.
+
+spec:
+  type: service
+  owner: user:platform-admin
+  lifecycle: experimental

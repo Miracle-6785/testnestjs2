@@ -1,0 +1,32 @@
+# Git
+.git
+.gitignore
+
+# Node.js
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Build and test artifacts
+/dist
+/coverage
+/coverage-e2e
+
+# IDE
+.idea
+.vscode
+*.sublime-workspace
+
+# Environment variables
+.env
+.env.*
+
+# Documentation
+README.md
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log* 
